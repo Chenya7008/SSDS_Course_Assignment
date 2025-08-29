@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+Note: === Minimal Preamble Test Started ===
+Time: 0 ps  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Starting single preamble generation...
+Time: 30 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Expected pattern: 10101010
+Time: 40 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 0: '0'
+Time: 50 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 1: '1'
+Time: 60 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 2: '0'
+Time: 70 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 3: '1'
+Time: 80 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 4: '0'
+Time: 90 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 5: '1'
+Time: 100 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 6: '0'
+Time: 110 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Bit 7: '0'
+Time: 120 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: === Single Test Completed ===
+Time: 140 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd
+Note: Check waveform for correct '10101010' pattern
+Time: 140 ns  Iteration: 0  Process: /tb_minimal_preamble/test_process  File: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd

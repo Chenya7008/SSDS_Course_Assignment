@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Jun 15 12:09:19 2025
+# Process ID: 19696
+# Current directory: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4556 C:\Users\yy\Downloads\Zhou_337564\FSM 1 process with the same timing 2 process\FSM 1 process with the same timing 2 process.xpr
+# Log file: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/vivado.log
+# Journal file: C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process\vivado.jou
+# Running On        :DESKTOP-0FVCC64
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+# CPU Frequency     :2904 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16989 MB
+# Swap memory       :10200 MB
+# Total Virtual     :27189 MB
+# Available Virtual :15007 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/yy/Downloads/Zhou_337564/FSM 1 process with the same timing 2 process/FSM 1 process with the same timing 2 process.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_minimal_preamble.tcl
+close_sim

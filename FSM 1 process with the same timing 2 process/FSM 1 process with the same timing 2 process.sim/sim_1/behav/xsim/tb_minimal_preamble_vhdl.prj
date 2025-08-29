@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../FSM 1 process with the same timing 2 process.srcs/sources_1/new/preamble.vhd" \
+"../../../../FSM 1 process with the same timing 2 process.srcs/sources_1/new/tb.vhd" \
+
+# Do not sort compile order
+nosort

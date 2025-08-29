@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Jun 14 23:15:59 2025
+# Process ID: 19932
+# Current directory: D:/01polito temp/SSDS_Exam/FSM Verilog with 2 always blocks
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23196 D:\01polito temp\SSDS_Exam\FSM Verilog with 2 always blocks\FSM Verilog with 2 always blocks.xpr
+# Log file: D:/01polito temp/SSDS_Exam/FSM Verilog with 2 always blocks/vivado.log
+# Journal file: D:/01polito temp/SSDS_Exam/FSM Verilog with 2 always blocks\vivado.jou
+# Running On        :DESKTOP-0FVCC64
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+# CPU Frequency     :2904 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16989 MB
+# Swap memory       :16416 MB
+# Total Virtual     :33406 MB
+# Available Virtual :6801 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/01polito temp/SSDS_Exam/FSM Verilog with 2 always blocks/FSM Verilog with 2 always blocks.xpr}
+update_compile_order -fileset sources_1

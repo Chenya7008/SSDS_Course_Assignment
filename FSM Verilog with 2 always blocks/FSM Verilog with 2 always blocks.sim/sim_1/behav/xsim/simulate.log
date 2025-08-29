@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+=== Verilog Preamble FSM Test Started ===
+Expected pattern: 10101010
+Starting preamble generation...
+Time: 50000 ns, data_out = 0
+Time: 60000 ns, data_out = 1
+Time: 70000 ns, data_out = 0
+Time: 80000 ns, data_out = 1
+Time: 90000 ns, data_out = 0
+Time: 100000 ns, data_out = 1
+Time: 110000 ns, data_out = 0
+Time: 120000 ns, data_out = 0
+=== Test Completed ===
+Check waveform for correct 10101010 pattern
+$finish called at time : 140 ns : File "C:/Users/yy/Downloads/Zhou_337564/FSM Verilog with 2 always blocks/FSM Verilog with 2 always blocks.srcs/sources_1/new/tb.v" Line 66

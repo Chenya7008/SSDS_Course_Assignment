@@ -1,0 +1,31 @@
+Time resolution is 1 ps
+Note: Address: 0 DataIN: 0
+Time: 0 ps  Iteration: 0  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: === Starting RAM average calculation test ===
+Time: 150 ns  Iteration: 0  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Test pattern: addresses 0-511 = 100, addresses 512-1023 = 200
+Time: 150 ns  Iteration: 0  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Expected average = (512*100 + 512*200)/1024 = 150
+Time: 150 ns  Iteration: 0  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 0 DataIN: 100
+Time: 170 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 1 DataIN: 100
+Time: 190 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 511 DataIN: 100
+Time: 10390 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 512 DataIN: 100
+Time: 10410 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 513 DataIN: 200
+Time: 10430 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Address: 1023 DataIN: 200
+Time: 20630 ns  Iteration: 3  Process: /RAM_ACCESS_TB/ram_read  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: === Test completed successfully! ===
+Time: 20650 ns  Iteration: 4  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Calculated average: 0
+Time: 20650 ns  Iteration: 4  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: Expected average: 150
+Time: 20650 ns  Iteration: 4  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Error: *** TEST FAILED! Expected ~150, got 0 ***
+Time: 20650 ns  Iteration: 4  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
+Note: === Test finished ===
+Time: 21650 ns  Iteration: 0  Process: /RAM_ACCESS_TB/stimulus  File: C:/Users/yy/Downloads/Zhou_337564/FSMD_HLSM/FSMD_HLSM.srcs/sources_1/new/tb.vhd
